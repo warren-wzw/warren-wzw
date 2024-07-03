@@ -1,5 +1,5 @@
 ### Hello,Welcome to my github!
-![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/warren-wzw)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 ![](https://img.shields.io/badge/常用框架-Pytorch-red)
 ![](https://img.shields.io/badge/Language-Python-orange)  
 
