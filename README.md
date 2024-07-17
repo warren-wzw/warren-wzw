@@ -1,7 +1,7 @@
 ### Hello,Welcome to my github!
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=warren-wzw.visitor-badge)
-![](https://img.shields.io/badge/常用框架-Pytorch-red)
-![](https://img.shields.io/badge/Language-Python-orange)  
+![](https://img.shields.io/badge/Framework-Linux-Pytorch-red)
+![](https://img.shields.io/badge/Language-C/C++-Python-orange)  
 ### About Me
 - 👋 Hi, I'm Warren, an engineer specializing in ARM and deep learning .
 - 💼 Currently working on various image classification projects.
