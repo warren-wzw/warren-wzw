@@ -11,5 +11,4 @@
 - **Frameworks**: Linux,Pytorch
 - **Tools**: linux,Git, Docker
 ### Contact
-- 📚 我的CSDN博客（CSDN Blog） https://blog.csdn.net/warren103098?type=sub&spm=1001.2014.3001.5348
-
+- 📚 我的CSDN博客（CSDN Blog） [CSDN-warren@伟](https://blog.csdn.net/warren103098?type=blog)
