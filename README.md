@@ -11,4 +11,4 @@
 - **Tools**: linux,Git, Docker
 ### Contact
 - 🌱 My self Homepage [Zhiwei Wang](https://warren-wzw.github.io/cv/)
-- 📚 我的CSDN博客（CSDN Blog） [CSDN-warren@伟](https://blog.csdn.net/warren103098?type=blog)
+- 📚 My CSDN Blog [CSDN-warren@伟](https://blog.csdn.net/warren103098?type=blog)
