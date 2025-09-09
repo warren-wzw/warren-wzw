@@ -1,10 +1,8 @@
 <a href="https://github.com/warren-wzw">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent">
 </a>
-### Hello,Welcome to my github!
-![](https://github-readme-stats.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent)
 
-### About Me
+### Hello,Welcome to my github!
 - 👋 Hi, My name is Zhiwei Wang, and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on image processing and deep learning, particularly in the areas of multi-modal image fusion and perception.
   
 ### Tech Stack
