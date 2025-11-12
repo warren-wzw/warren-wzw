@@ -10,5 +10,5 @@
 - **Languages**: Python, C/C++
 - **Tools**: Pytorch,linux,Git, Docker
 ### Contact
-- 🌱 My Homepage [Wang Zhiwei](https://warren-wzw.github.io/HomePage/#)
+- 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/#)
 - 📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog)
