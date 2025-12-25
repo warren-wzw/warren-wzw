@@ -1,6 +1,6 @@
 <a href="https://github.com/warren-wzw">
   <img align="right" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=warren-wzw&show_icons=true&bg_color=0d1117&title_color=d033ff&text_color=c9d1d9&icon_color=d033ff">
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=warren-wzw&show_icons=true&bg_color=22272e&title_color=d033ff&text_color=adbac7&icon_color=d033ff&hide_border=true">
 </a>
 
 ### Hello,Welcome to my Github!
