@@ -1,6 +1,6 @@
 <a href="https://github.com/warren-wzw">
   <img align="right" 
-       src="[https://github-readme-stats.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent](https://github-readme-stats-sigma-five.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent)">
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent">
 </a>
 
 ### Hello,Welcome to my Github!
