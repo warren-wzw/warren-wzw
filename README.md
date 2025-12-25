@@ -1,10 +1,10 @@
 <a href="https://github.com/warren-wzw">
   <img align="right" 
-       src="https://github-readme-stats.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent">
+       src="[https://github-readme-stats.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent](https://github-readme-stats-sigma-five.vercel.app/api?username=warren-wzw&show_icons=true&theme=transparent)">
 </a>
 
 ### Hello,Welcome to my Github!
-- 👋 Hi, My name is Warren (WANG Zhiwei), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on multi-modal image fusion and perception, as well as their efficient deployment on embedded systems for real-world applications.
+- 👋 Hi, My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.
   
 ### Tech Stack
 - **Languages**: Python, C/C++
