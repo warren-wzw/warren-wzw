@@ -12,5 +12,5 @@
 - **Tools**: Pytorch,linux,Git, Docker
 
 ### Contact
-- 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/#)
 - 📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog)
+- 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/#)
