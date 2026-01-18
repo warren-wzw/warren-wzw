@@ -3,12 +3,17 @@
 </h1>
 
 <p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=warren-wzw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/warren-wzw?style=for-the-badge&logo=github&label=Followers&color=2eb85c"/>
   
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/warren-wzw?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
 </p>
+
+### Tech Stack
+- **Languages**: Python, C/C++
+- **Tools**: Pytorch,linux,Git, Docker
+
+### Contact
+- 📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog )
+- 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/# )
