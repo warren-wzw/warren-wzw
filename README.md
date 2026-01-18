@@ -1,16 +1,3 @@
-<!-- <a href="https://github.com/warren-wzw">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=warren-wzw&show_icons=true&bg_color=22272e&title_color=d033ff&text_color=adbac7&icon_color=d033ff&hide_border=true" width="100%" />
-</a> -->
-
-
-### Hello,Welcome to my Github!
-
-- 👋 Hi, My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.
-
-### Tech Stack
-- **Languages**: Python, C/C++
-- **Tools**: Pytorch,linux,Git, Docker
-
-### Contact
-- 📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog )
-- 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/# )
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Zhiwei+(Warren)+Wang;PhD+Candidate+@+Zhejiang+University of Technology;Deep learning;Information fusion " alt="Typing SVG" />
+</h1>
