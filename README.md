@@ -5,12 +5,15 @@
 <table width="100%" style="border:none">
   <tr valign="top">
     <td width="54%">
-      ### Tech Stack
-      - **Languages**: Python, C/C++
-      - **Tools**: PyTorch, Linux, Git, Docker
-      ### Contact
-      - 📚 [CSDN Blog](https://blog.csdn.net/warren103098?type=blog)
-      - 🌱 [Personal Homepage](https://warren-wzw.github.io/HomePage/#)
+### Tech Stack
+
+- **Languages**: Python, C/C++
+- **Tools**: PyTorch, Linux, Git, Docker
+
+### Contact
+- 📚 [CSDN Blog](https://blog.csdn.net/warren103098?type=blog)
+- 🌱 [Personal Homepage](https://warren-wzw.github.io/HomePage/#)
+      
     </td>
    <td width="50%" style="text-align:center; vertical-align:middle;">
       <a href="https://github.com/warren-wzw">
