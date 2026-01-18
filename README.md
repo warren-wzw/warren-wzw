@@ -4,7 +4,7 @@
 ### 👋 Hi, Welcome to my Github!
 My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.
 
-### ✨ Homepage
+### ✨ Navigation Hub
 - 📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog )
 - 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/# )
 
