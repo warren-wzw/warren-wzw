@@ -3,7 +3,7 @@
     <td width="50%" valign="top">
       <h3>Hello,Welcome to my Github!</h3>
       <ul>
-        <li>👋 Hi, My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.</li>
+        👋 Hi, My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.
       <h4>Contact</h4>
       <ul>
         <li>📚 My CSDN Blog <a href="https://blog.csdn.net/warren103098?type=blog">warren@伟</a></li>
