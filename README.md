@@ -1,10 +1,10 @@
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Zhiwei+(Warren)+Wang;PhD+Candidate+@+ZJUT;Deep+Learning;Image+Processing" alt="Typing SVG" />
 </h1>  -->
-### 👋 Hi, Welcome to my Github!
+## 👋 Hi, Welcome to my Github!
 My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.
 
-### ✨ Navigation Hub
+## ✨ Navigation Hub
 - 📚 My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog )
 - 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/# )
 
