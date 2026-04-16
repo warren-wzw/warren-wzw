@@ -1,6 +1,3 @@
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Zhiwei+(Warren)+Wang;PhD+Candidate+@+ZJUT;Deep+Learning;Image+Processing" alt="Typing SVG" />
-</h1>  -->
 ## 👋 Hi, Welcome to my Github!
 My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhejiang University of Technology. My research primarily focuses on information fusion, as well as their efficient deployment on embedded systems for real-world applications.
 
@@ -9,7 +6,7 @@ My name is WANG Zhiwei (王志伟), and I am currently a Ph.D. candidate at Zhej
 - 🌱 My Homepage [WANG Zhiwei](https://warren-wzw.github.io/HomePage/# )
 
 ## 👨🏻‍💻 Languages and Tools
-<p align="center">
+<p align="center" style="white-space: nowrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
