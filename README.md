@@ -22,7 +22,7 @@ My name is **WANG Zhiwei (王志伟)**, and I am currently a Ph.D. candidate at 
 
 <p align="center">
   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=warren-wzw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://hits.sh/github.com/warren-wzw.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&extraCount=1190" alt="profile views"/>
   <!-- Stars -->
   <img src="./badges/stars.svg" alt="Stars"/>
   <!-- Followers -->
