@@ -1,5 +1,5 @@
 ## 👋 Hi, Welcome to my Github!
-My name is **WANG Zhiwei**, and i am currently a Ph.D. candidate at the College of Information Engineering, Zhejiang University of Technology. I am also a visiting student at the Imaging Systems Laboratory (ISL), The University of Hong Kong. My research focuses on **multimodal intelligent perception** and its efficient deployment on edge devices for real-world applications.
+My name is **WANG Zhiwei(王志伟)**, and i am currently a Ph.D. candidate at the College of Information Engineering, Zhejiang University of Technology. I am also a visiting student at the Imaging Systems Laboratory (ISL), The University of Hong Kong. My research focuses on **multimodal intelligent perception** and its efficient deployment on edge devices for real-world applications.
 
 ## 🚀  Navigation Hub
 - 🛰️ My CSDN Blog [warren@伟](https://blog.csdn.net/warren103098?type=blog)
